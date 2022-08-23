@@ -2,7 +2,7 @@
 ## This is Ali Maher :]
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiimaher&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiimaher&count_private=false&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliiimaher&layout=compact&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
