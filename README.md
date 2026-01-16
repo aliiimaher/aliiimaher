@@ -8,9 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliiimaher)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliiimaher&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aliiimaher&show_icons=true&theme=github_dark)](https://github.com/aliiimaher)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliiimaher&layout=compact&count_private=true&theme=github_dark&cache_seconds=0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aliiimaher&layout=compact&theme=github_dark)](https://github.com/aliiimaher)
+
 
 
 <!--
