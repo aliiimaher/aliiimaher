@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliiimaher)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aliiimaher&show_icons=true&theme=github_dark)](https://github.com/aliiimaher)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aliiimaher&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)](https://github.com/aliiimaher)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aliiimaher&layout=compact&theme=github_dark&langs_count=18)](https://github.com/aliiimaher)
 
